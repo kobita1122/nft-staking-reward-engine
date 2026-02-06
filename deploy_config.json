@@ -1,0 +1,6 @@
+{
+  "nftAddress": "0x...",
+  "rewardTokenAddress": "0x...",
+  "rewardRate": "10000000000000000000",
+  "network": "ethereum-sepolia"
+}
